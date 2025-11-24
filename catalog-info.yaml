@@ -1,14 +1,15 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "sharescreeappmohit"
-  description: "sharescreeappmohit"
+  name: "sharescreeappmohitrepo"
+  description: "sharescreeappmohitrepo"
   annotations:
     github.com/project-slug: "shubhamvjv/sharescreeappmohitrepo"
 spec:
   type: website
   owner: "shubhamvjv"
   lifecycle: experimental
+
 
 
 
