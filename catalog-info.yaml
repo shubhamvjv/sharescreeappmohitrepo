@@ -4,8 +4,9 @@ metadata:
   name: "sharescreeappmohit"
   description: "sharescreeappmohit"
   annotations:
-    github.com/project-slug: "undefined/undefined"
+    github.com/project-slug: shubhamvjv/sharescreeappmohit
 spec:
   type: website
   owner: "shubhamvjv"
   lifecycle: experimental
+
